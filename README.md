@@ -9,5 +9,5 @@ O pacote xpto é instalado via [composer](http://getcomposer.org/doc/00-intro.md
 Execute o comando a seguir para obter a versão mais recente do pacote:
 
 ```
-composer require gestaoti/xpto
+composer require gestao-ti/xpto
 ```
